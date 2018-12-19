@@ -1,0 +1,25 @@
+{
+  "name": "@tanhauhau/yx",
+  "version": "1.0.0",
+  "description": "yx = yarn run + npx + autocomplete",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanhauhau/yx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanhauhau/yx/issues"
+  },
+  "homepage": "https://github.com/tanhauhau/yx#readme",
+  "author": "Li Hau Tan <lhtan93@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "yx": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.1",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "pkg-up": "^2.0.0"
+  }
+}
