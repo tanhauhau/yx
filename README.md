@@ -1,5 +1,9 @@
 # yx
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+
 > Having trouble remembering what command to start/test/lint/xxx your project?
 >
 > `yx` is all you need to remember.
